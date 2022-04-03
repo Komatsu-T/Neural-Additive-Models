@@ -1,2 +1,2 @@
 # Neural-Additive-Models
-後で書く
+時間あるときに書く
