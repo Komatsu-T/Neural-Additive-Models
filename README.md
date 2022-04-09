@@ -12,3 +12,6 @@ matplotlib: 3.5.1
 
 ## Neural Additive Models with interaction
 ![2022-04-03_222419](https://user-images.githubusercontent.com/79096203/162558494-077f22c0-0ba6-4ed8-8d04-a3e5ed9cdfe0.jpg)
+
+## Reference
+https://arxiv.org/abs/2004.13912/
