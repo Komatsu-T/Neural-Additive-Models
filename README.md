@@ -1,2 +1,2 @@
 # Neural-Additive-Models
-時間あるときに書く
+### 実行環境
