@@ -7,6 +7,11 @@ sklearn: 1.0.2
 numpy: 1.22.1  
 matplotlib: 3.5.1
 
+## installation
+```python
+pip install git+https://github.com/Komatsu-T/Neural-Additive-Models.git
+```
+
 ## Neural Additive Models
 ![nam](https://user-images.githubusercontent.com/79096203/162557690-86feeec9-179d-4241-aa0f-5785e86a0ae0.jpg)
 
