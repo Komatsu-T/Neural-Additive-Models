@@ -16,7 +16,7 @@ pip install git+https://github.com/Komatsu-T/Neural-Additive-Models.git
 ![nam](https://user-images.githubusercontent.com/79096203/162557690-86feeec9-179d-4241-aa0f-5785e86a0ae0.jpg)
 
 ## Neural Additive Models with Interaction
-![2022-04-03_222419](https://user-images.githubusercontent.com/79096203/162558494-077f22c0-0ba6-4ed8-8d04-a3e5ed9cdfe0.jpg)
+![2022-04-03_222419_2](https://github.com/Komatsu-T/Neural-Additive-Models/assets/79096203/d6719632-e89a-4260-a55e-99c396f5685b)
 
 ## Reference
 https://arxiv.org/abs/2004.13912/  
